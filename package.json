@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/haribote/knockout.extended/issues"
   },
-  "homepage": "https://github.com/haribote/knockout.extended#readme"
+  "homepage": "https://github.com/haribote/knockout.extended#readme",
+  "dependencies": {
+    "knockout": "^3.4.0",
+    "knockout.mapping": "^2.4.3"
+  }
 }
